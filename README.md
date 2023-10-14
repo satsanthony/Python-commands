@@ -1,2 +1,3 @@
-# copilot
-Commands to get optimal code using Github CoPilot
+# GitHub CoPilot Python Commands
+- give me a python code with code explanation for every line to read a csv file from a windows directory and write it into a json format
+- give me a python code to read output.json file from the current directory and extract the feature 'Sex' from this file to give me a pie chart that shows percent distribution of 'Sex' in the output.json file -- The output json file is the titanic train.csv from above example. This command works, however, the chart does not display any values. ---> This command works: give me a python code to read output.json file from the current directory and use the feature 'Sex' from this file to give me a pie chart that shows percent distribution of 'Sex' in the output.json file
