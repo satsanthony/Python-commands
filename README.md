@@ -1,12 +1,15 @@
-# New Python Commands (Windows/VSCODE terminal)
+### New Python Commands (Windows/VSCODE terminal)
 
-pip install poetry
-poetry init (creates pyproject.toml file)
-poetry install (setup dependencies)
-poetry add package name
-poetry remove package name
+•	pip install poetry
+•	poetry init (creates pyproject.toml file)
+•	poetry install (setup dependencies inside toml file)
 
-# List poetry environments
+### Manually add packages
+•	poetry add package name
+•	poetry remove package name
+
+
+### List poetry environments
 List poetry environments:
 poetry env info --path
 (usually under c:\users)
