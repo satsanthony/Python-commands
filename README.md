@@ -1,3 +1,12 @@
+Python Poetry was introduced in 2020. The latest version, 2.0.1, was released on January 11, 2025. 
+
+Some of the features of Python Poetry include: 
+Dependency management: Poetry manages the installation and updates of libraries.
+Virtual environment management: Poetry automatically creates and manages virtual environments for each project.
+Package publishing: Poetry can publish packages.
+Reproducible builds: Poetry ensures reproducible builds through intelligent dependency resolution.
+Lockfile: Poetry offers a lockfile to ensure repeatable installs.
+
 ### New Python Commands (Windows/VSCODE terminal)
 
 •	pip install poetry
