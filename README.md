@@ -11,10 +11,7 @@ Lockfile: Poetry offers a lockfile to ensure repeatable installs.
 
 •	pip install poetry
 •	poetry init (creates pyproject.toml file)
-•	add in a python package manually
 •	poetry config virtualenvs.in-project true (to create virtual environment in your project directory)
-•	poetry env list
-•	poetry env remove <current environment>
 •	poetry install (setup dependencies inside toml file)
 
 ### Manually add packages
@@ -26,5 +23,7 @@ Lockfile: Poetry offers a lockfile to ensure repeatable installs.
 List poetry environments:
 poetry env info --path
 (usually under c:\users)
+•	poetry env list
+•	poetry env remove <current environment>
 
 
