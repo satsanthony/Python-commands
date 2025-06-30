@@ -16,6 +16,7 @@ Lockfile: Poetry offers a lockfile to ensure repeatable installs.
 
 ### Manually add packages
 •	poetry add package name
+•	poetry add $(cat requirements.txt) (if packages are listed in requirements.txt)
 •	poetry remove package name
 
 
